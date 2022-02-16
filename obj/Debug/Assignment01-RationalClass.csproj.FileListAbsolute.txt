@@ -1,0 +1,14 @@
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.exe.config
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.exe
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.pdb
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.exe
+C:\Users\Vincent\Desktop\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.pdb
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.exe.config
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.exe
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\bin\Debug\Assignment01-RationalClass.pdb
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.exe
+C:\Users\Vincent\Desktop\COMP123 - Programming 2\Assignment01-RationalClass\obj\Debug\Assignment01-RationalClass.pdb
